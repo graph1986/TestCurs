@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestCurrency</string>
+    <string name="connection_error">Загрузка не удалась</string>
+    <string name="save_value">Сохранить</string>
+    <string name="change_value">Изменить</string>
+    <string name="currency_dollar_usa">Доллар США</string>
+    <string name="date">Дата</string>
+    <string name="curs">Курс</string>
+    <string name="text_value">Пороговый курс для уведомления</string>
+</resources>
